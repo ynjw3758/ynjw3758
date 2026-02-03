@@ -77,7 +77,7 @@ Each service is independently developed and deployed, following MSA principles.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-three-xi-52.vercel.app/api?username=ynjw3758&show_icons=true&hide_rank=true&cache_seconds=21600)
+![Top Langs](https://github-readme-stats-three-xi-52.vercel.app/api/top-langs/?username=ynjw3758&layout=compact&count_private=true&cache_seconds=21600)
 
 ---
 
