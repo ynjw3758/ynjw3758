@@ -77,8 +77,7 @@ Each service is independently developed and deployed, following MSA principles.
 
 ## 📊 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/ynjw3758?label=Followers&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/ynjw3758?label=Stars&style=flat)
+![GitHub stats](https://github-readme-stats-three-xi-52.vercel.app/api?username=ynjw3758&show_icons=true&hide_rank=true&cache_seconds=21600)
 
 ---
 
