@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Jiwan
 
-<!--
-**ynjw3758/ynjw3758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer building and operating an MSA-based social platform with Spring Boot.  
+I focus on system design, service separation, and real-time communication features.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Java, Spring Boot
+- PostgreSQL, Redis, MongoDB
+- WebSocket, Kafka
+- React, TypeScript
+
+---
+
+## 🌟 Featured Project
+### Aniverse Platform
+An MSA-based social platform composed of multiple backend services such as auth, chat, search, and notification.
